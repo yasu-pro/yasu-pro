@@ -7,5 +7,5 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
 </a>
 
-[![Website Badge](https://blog-yasu.com/about/)
-[![Linkedin Badge](www.linkedin.com/in/yasuhiro-fujimoto-7b7288213)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://blog-yasu.com/about/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yasuhiro-fujimoto-7b7288213)
