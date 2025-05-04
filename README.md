@@ -1,6 +1,6 @@
 # yasu-pro
 
-### Hi there, I'm <a href="https://blog-yasu.com/about/" target="_blank">yasu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm yasu</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left"> 
   <a href="https://github.com/yasu-pro">
